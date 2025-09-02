@@ -23,6 +23,18 @@
       "alamat": "-",
       "alergi": "-",
       "riwayatKunjungan": []
+    },
+    {
+      "id": 1756831852370,
+      "noRM": "0009",
+      "nama": "Gus",
+      "tglLahir": "2010-09-02",
+      "gender": "Laki-laki",
+      "golDarah": "B",
+      "telepon": "+",
+      "alamat": "-",
+      "alergi": "-",
+      "riwayatKunjungan": []
     }
   ]
 }
