@@ -10,7 +10,38 @@
       "telepon": "081313876160",
       "alamat": "Gedong",
       "alergi": "-",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756829960606,
+          "tglKunjungan": "2025-09-02",
+          "keluhanUtama": "Panas Dingin Serta Meng gigil, Panas mencapai 39.1C",
+          "riwayatPenyakitSekarang": "Demam Akut ",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "120/75",
+              "nadi": "80",
+              "rr": "20",
+              "suhu": "36.9",
+              "spo2": "95"
+            },
+            "temuanLain": "Tidak ada"
+          },
+          "diagnosis": [
+            {
+              "kode": "R50.9",
+              "deskripsi": "FEVER"
+            }
+          ],
+          "resepObat": [
+            {
+              "namaObat": "Paracetamol",
+              "dosis": "500MG",
+              "frekuensi": "3x1"
+            }
+          ],
+          "rencana": "Tidak ada"
+        }
+      ]
     }
   ]
 }
