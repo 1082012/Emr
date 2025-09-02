@@ -34,7 +34,27 @@
       "telepon": "+",
       "alamat": "-",
       "alergi": "-",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756831879432,
+          "tglKunjungan": "2025-09-02",
+          "keluhanUtama": "J",
+          "riwayatPenyakitSekarang": "G",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "",
+              "nadi": "",
+              "rr": "",
+              "suhu": "",
+              "spo2": ""
+            },
+            "temuanLain": ""
+          },
+          "diagnosis": [],
+          "resepObat": [],
+          "rencana": ""
+        }
+      ]
     }
   ]
 }
