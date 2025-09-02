@@ -23,38 +23,6 @@
       "alamat": "-",
       "alergi": "-",
       "riwayatKunjungan": []
-    },
-    {
-      "id": 1756831852370,
-      "noRM": "0009",
-      "nama": "Gus",
-      "tglLahir": "2010-09-02",
-      "gender": "Laki-laki",
-      "golDarah": "B",
-      "telepon": "+",
-      "alamat": "-",
-      "alergi": "-",
-      "riwayatKunjungan": [
-        {
-          "id": 1756831879432,
-          "tglKunjungan": "2025-09-02",
-          "keluhanUtama": "J",
-          "riwayatPenyakitSekarang": "G",
-          "pemeriksaanFisik": {
-            "tandaVital": {
-              "td": "",
-              "nadi": "",
-              "rr": "",
-              "suhu": "",
-              "spo2": ""
-            },
-            "temuanLain": ""
-          },
-          "diagnosis": [],
-          "resepObat": [],
-          "rencana": ""
-        }
-      ]
     }
   ]
 }
