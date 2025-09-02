@@ -10,7 +10,38 @@
       "telepon": "081313876160",
       "alamat": "G",
       "alergi": "G",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756832654166,
+          "tglKunjungan": "2025-09-02",
+          "keluhanUtama": "Uy",
+          "riwayatPenyakitSekarang": "Uy",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "77/77",
+              "nadi": "78",
+              "rr": "20",
+              "suhu": "367",
+              "spo2": "99"
+            },
+            "temuanLain": "I"
+          },
+          "diagnosis": [
+            {
+              "kode": "R50.9",
+              "deskripsi": "Fever"
+            }
+          ],
+          "resepObat": [
+            {
+              "namaObat": "PC",
+              "dosis": "500MG",
+              "frekuensi": "3x1"
+            }
+          ],
+          "rencana": "-"
+        }
+      ]
     }
   ]
 }
