@@ -40,6 +40,25 @@
             }
           ],
           "rencana": "-"
+        },
+        {
+          "id": 1756832793176,
+          "tglKunjungan": "2025-09-03",
+          "keluhanUtama": "P",
+          "riwayatPenyakitSekarang": "P",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "",
+              "nadi": "",
+              "rr": "",
+              "suhu": "",
+              "spo2": ""
+            },
+            "temuanLain": ""
+          },
+          "diagnosis": [],
+          "resepObat": [],
+          "rencana": ""
         }
       ]
     }
