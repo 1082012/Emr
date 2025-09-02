@@ -11,6 +11,18 @@
       "alamat": "-0",
       "alergi": "-",
       "riwayatKunjungan": []
+    },
+    {
+      "id": 1756831257874,
+      "noRM": "0000",
+      "nama": "Faiz",
+      "tglLahir": "2003-09-02",
+      "gender": "Laki-laki",
+      "golDarah": "B",
+      "telepon": "08131324153",
+      "alamat": "-",
+      "alergi": "-",
+      "riwayatKunjungan": []
     }
   ]
 }
