@@ -1,3 +1,16 @@
 {
-  "patients": []
+  "patients": [
+    {
+      "id": 1756877842118,
+      "noRM": "09088",
+      "nama": "Faiz",
+      "tglLahir": "2003-09-03",
+      "gender": "Laki-laki",
+      "golDarah": "O",
+      "telepon": "081313876160",
+      "alamat": "-",
+      "alergi": "-",
+      "riwayatKunjungan": []
+    }
+  ]
 }
