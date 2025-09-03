@@ -63,7 +63,27 @@
       "telepon": "H",
       "alamat": "Jj",
       "alergi": "J",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756885983630,
+          "tglKunjungan": "2025-09-03",
+          "keluhanUtama": "",
+          "riwayatPenyakitSekarang": "",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "",
+              "nadi": "",
+              "rr": "",
+              "suhu": "",
+              "spo2": ""
+            },
+            "temuanLain": ""
+          },
+          "diagnosis": [],
+          "resepObat": [],
+          "rencana": ""
+        }
+      ]
     }
   ]
 }
