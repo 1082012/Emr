@@ -136,6 +136,16 @@
           }
         }
       ]
+    },
+    {
+      "id": 1756905349214,
+      "noRM": "",
+      "nama": "",
+      "tglLahir": "",
+      "gender": "Laki-laki",
+      "telepon": "",
+      "alamat": "",
+      "riwayatKunjungan": []
     }
   ]
 }
