@@ -123,7 +123,17 @@
           },
           "diagnosis": [],
           "resepObat": [],
-          "rencana": ""
+          "rencana": "",
+          "payment": {
+            "status": "Lunas",
+            "guarantor": "Jasa Raharja",
+            "method": "Debit",
+            "amountPaid": 150000,
+            "subtotal": 150000,
+            "coveredAmount": 150000,
+            "patientPaid": 0,
+            "paymentDate": "2025-09-03T08:36:40.814Z"
+          }
         }
       ]
     }
