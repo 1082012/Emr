@@ -105,7 +105,27 @@
       "telepon": "B",
       "alamat": "",
       "alergi": "",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756888564740,
+          "tglKunjungan": "2025-09-03",
+          "keluhanUtama": "N",
+          "riwayatPenyakitSekarang": "J",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "",
+              "nadi": "",
+              "rr": "",
+              "suhu": "",
+              "spo2": ""
+            },
+            "temuanLain": ""
+          },
+          "diagnosis": [],
+          "resepObat": [],
+          "rencana": ""
+        }
+      ]
     }
   ]
 }
