@@ -10,7 +10,27 @@
       "telepon": "081313876160",
       "alamat": "-",
       "alergi": "-",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756877873476,
+          "tglKunjungan": "2025-09-03",
+          "keluhanUtama": "",
+          "riwayatPenyakitSekarang": "",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "",
+              "nadi": "",
+              "rr": "",
+              "suhu": "",
+              "spo2": ""
+            },
+            "temuanLain": ""
+          },
+          "diagnosis": [],
+          "resepObat": [],
+          "rencana": ""
+        }
+      ]
     }
   ]
 }
