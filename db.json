@@ -10,7 +10,38 @@
       "telepon": "081313876160",
       "alamat": "-",
       "alergi": "-",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756882527257,
+          "tglKunjungan": "2025-09-03",
+          "keluhanUtama": "Papalal",
+          "riwayatPenyakitSekarang": "Oaps",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "1827",
+              "nadi": "Isjs",
+              "rr": "Sjsj",
+              "suhu": "Shaj",
+              "spo2": "Shah"
+            },
+            "temuanLain": "Jssj"
+          },
+          "diagnosis": [
+            {
+              "kode": "Bsbs",
+              "deskripsi": "jsjs"
+            }
+          ],
+          "resepObat": [
+            {
+              "namaObat": "Jsjs",
+              "dosis": "Nshs",
+              "frekuensi": "Hshs"
+            }
+          ],
+          "rencana": "Nans"
+        }
+      ]
     },
     {
       "id": 1756881588941,
