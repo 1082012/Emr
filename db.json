@@ -81,7 +81,17 @@
           },
           "diagnosis": [],
           "resepObat": [],
-          "rencana": ""
+          "rencana": "",
+          "payment": {
+            "status": "Lunas",
+            "guarantor": "BPJS",
+            "method": "Tunai",
+            "amountPaid": 30000,
+            "subtotal": 150000,
+            "coveredAmount": 120000,
+            "patientPaid": 30000,
+            "paymentDate": "2025-09-03T07:53:29.176Z"
+          }
         }
       ]
     }
