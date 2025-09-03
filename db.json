@@ -11,6 +11,18 @@
       "alamat": "-",
       "alergi": "-",
       "riwayatKunjungan": []
+    },
+    {
+      "id": 1756881588941,
+      "noRM": "090",
+      "nama": "J",
+      "tglLahir": "",
+      "gender": "Laki-laki",
+      "golDarah": "G",
+      "telepon": "H",
+      "alamat": "Jj",
+      "alergi": "J",
+      "riwayatKunjungan": []
     }
   ]
 }
