@@ -94,6 +94,18 @@
           }
         }
       ]
+    },
+    {
+      "id": 1756888548740,
+      "noRM": "P",
+      "nama": "K",
+      "tglLahir": "2025-09-03",
+      "gender": "Laki-laki",
+      "golDarah": "B",
+      "telepon": "B",
+      "alamat": "",
+      "alergi": "",
+      "riwayatKunjungan": []
     }
   ]
 }
