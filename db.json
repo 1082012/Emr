@@ -1,16 +1,3 @@
 {
-  "patients": [
-    {
-      "id": 1756832603998,
-      "noRM": "1234",
-      "nama": "Gusti",
-      "tglLahir": "2008-09-03",
-      "gender": "Laki-laki",
-      "golDarah": "A",
-      "telepon": "081313876160",
-      "alamat": "G",
-      "alergi": "G",
-      "riwayatKunjungan": []
-    }
-  ]
+  "patients": []
 }
