@@ -145,7 +145,16 @@
       "gender": "Laki-laki",
       "telepon": "",
       "alamat": "",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1756905356293,
+          "tglKunjungan": "2025-09-03",
+          "anamnesis": "",
+          "pemeriksaanFisik": "",
+          "diagnosis": "",
+          "resepObat": []
+        }
+      ]
     }
   ]
 }
