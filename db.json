@@ -138,35 +138,6 @@
       ]
     },
     {
-      "id": 1756905349214,
-      "noRM": "",
-      "nama": "",
-      "tglLahir": "",
-      "gender": "Laki-laki",
-      "telepon": "",
-      "alamat": "",
-      "riwayatKunjungan": [
-        {
-          "id": 1756905356293,
-          "tglKunjungan": "2025-09-03",
-          "anamnesis": "",
-          "pemeriksaanFisik": "",
-          "diagnosis": "",
-          "resepObat": [],
-          "payment": {
-            "status": "Lunas",
-            "guarantor": "Umum",
-            "method": "Tunai",
-            "amountPaid": 200000,
-            "subtotal": 150000,
-            "coveredAmount": 0,
-            "patientPaid": 150000,
-            "paymentDate": "2025-09-17T10:13:47.358Z"
-          }
-        }
-      ]
-    },
-    {
       "id": 1758104003765,
       "noRM": "",
       "nama": "",
