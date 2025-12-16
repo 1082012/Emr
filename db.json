@@ -216,8 +216,8 @@
           },
           "rencana": "Rawat inap",
           "noSEP": "0101R001541629",
-          "cbgCode": null,
-          "cbgTarif": null,
+          "cbgCode": "I-4-11-I",
+          "cbgTarif": "Rp 9,587.000.000",
           "labTtdDigitalStatus": {
             "signer": "Gusti",
             "timestamp": "2025-12-16T13:43:07.704Z"
