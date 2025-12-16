@@ -190,7 +190,7 @@
               "dosis": "N",
               "frekuensi": "N",
               "keterangan": "K",
-              "dispensingStatus": "PENDING"
+              "dispensingStatus": "TERDISPENSING"
             }
           ],
           "rencana": "K",
