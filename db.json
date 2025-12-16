@@ -190,7 +190,10 @@
           "noSEP": "0101R001492830",
           "cbgCode": "A-4-10-I",
           "cbgTarif": "Rp 6.500.000",
-          "labTtdDigitalStatus": null,
+          "labTtdDigitalStatus": {
+            "signer": "Gusti",
+            "timestamp": "2025-12-16T13:31:15.976Z"
+          },
           "sirsStatus": "TERKIRIM",
           "timestamp": "2025-12-16T13:23:48.190Z"
         }
