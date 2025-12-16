@@ -183,7 +183,7 @@
               "dosis": "60",
               "frekuensi": "3x1",
               "keterangan": "Sesudah makan",
-              "dispensingStatus": "PENDING"
+              "dispensingStatus": "TERDISPENSING"
             }
           ],
           "rencana": "K",
