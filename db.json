@@ -177,14 +177,22 @@
               "deskripsi": "A"
             }
           ],
-          "resepObat": [],
+          "resepObat": [
+            {
+              "namaObat": "Adalat oros",
+              "dosis": "60",
+              "frekuensi": "3x1",
+              "keterangan": "Sesudah makan",
+              "dispensingStatus": "PENDING"
+            }
+          ],
           "rencana": "K",
           "noSEP": "0101R001492830",
           "cbgCode": "A-4-10-I",
           "cbgTarif": "Rp 6.500.000",
           "labTtdDigitalStatus": null,
           "sirsStatus": "TERKIRIM",
-          "timestamp": "2025-12-16T13:07:17.459Z"
+          "timestamp": "2025-12-16T13:23:48.190Z"
         }
       ],
       "nikVerificationStatus": "TERVERIFIKASI"
