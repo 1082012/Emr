@@ -183,7 +183,7 @@
           "cbgCode": "A-4-10-I",
           "cbgTarif": "Rp 6.500.000",
           "labTtdDigitalStatus": null,
-          "sirsStatus": null,
+          "sirsStatus": "TERKIRIM",
           "timestamp": "2025-12-16T13:07:17.459Z"
         }
       ],
