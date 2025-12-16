@@ -185,7 +185,7 @@
               "frekuensi": "4x1",
               "keterangan": "Sebelum makan",
               "orderStatus": "ORDERED",
-              "dispensingStatus": "PENDING"
+              "dispensingStatus": "TERDISPENSING"
             },
             {
               "namaObat": "Paracetamol",
@@ -193,7 +193,7 @@
               "frekuensi": "4x1",
               "keterangan": "Sebelum.makan",
               "orderStatus": "ORDERED",
-              "dispensingStatus": "PENDING"
+              "dispensingStatus": "TERDISPENSING"
             }
           ],
           "labOrder": [
