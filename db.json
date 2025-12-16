@@ -218,7 +218,10 @@
           "noSEP": "0101R001541629",
           "cbgCode": null,
           "cbgTarif": null,
-          "labTtdDigitalStatus": null,
+          "labTtdDigitalStatus": {
+            "signer": "Gusti",
+            "timestamp": "2025-12-16T13:43:07.704Z"
+          },
           "sirsStatus": null,
           "timestamp": "2025-12-16T13:42:01.139Z"
         },
