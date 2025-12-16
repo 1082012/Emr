@@ -184,6 +184,13 @@
               "frekuensi": "3x1",
               "keterangan": "Sesudah makan",
               "dispensingStatus": "TERDISPENSING"
+            },
+            {
+              "namaObat": "B",
+              "dosis": "N",
+              "frekuensi": "N",
+              "keterangan": "K",
+              "dispensingStatus": "PENDING"
             }
           ],
           "rencana": "K",
@@ -195,7 +202,7 @@
             "timestamp": "2025-12-16T13:31:15.976Z"
           },
           "sirsStatus": "TERKIRIM",
-          "timestamp": "2025-12-16T13:23:48.190Z"
+          "timestamp": "2025-12-16T13:31:54.049Z"
         }
       ],
       "nikVerificationStatus": "TERVERIFIKASI"
