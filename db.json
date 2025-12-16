@@ -200,13 +200,13 @@
             {
               "jenis": "Cek Gula Darah",
               "keterangan": "Biasa",
-              "orderStatus": "BELUM ORDER",
+              "orderStatus": "ORDERED",
               "result": "PENDING"
             },
             {
               "jenis": "Cek Kadar Cairan",
               "keterangan": "Cito",
-              "orderStatus": "BELUM ORDER",
+              "orderStatus": "ORDERED",
               "result": "PENDING"
             }
           ],
