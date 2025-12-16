@@ -269,7 +269,7 @@
             "tindakanMedisDPJP": "Memberi obat"
           },
           "rencana": "Rawat inap",
-          "noSEP": null,
+          "noSEP": "0101R001541629",
           "cbgCode": null,
           "cbgTarif": null,
           "labTtdDigitalStatus": null,
