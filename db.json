@@ -136,6 +136,20 @@
           }
         }
       ]
+    },
+    {
+      "id": 1765884318509,
+      "noRM": "00100812",
+      "nama": "Gusti Faiz",
+      "nik": "1234567891011121",
+      "jenisPasien": "BPJS",
+      "tglLahir": "2013-08-10",
+      "gender": "Laki-laki",
+      "golDarah": "B",
+      "telepon": "082117447116",
+      "alamat": "Gedong",
+      "alergi": "-",
+      "riwayatKunjungan": []
     }
   ]
 }
