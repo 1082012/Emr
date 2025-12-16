@@ -149,7 +149,44 @@
       "telepon": "082117447116",
       "alamat": "Gedong",
       "alergi": "-",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": 1765890437459,
+          "tglKunjungan": "2025-12-16",
+          "keluhanUtama": "P",
+          "riwayatPenyakitSekarang": "L",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "180/90",
+              "nadi": "87",
+              "rr": "77",
+              "suhu": "36",
+              "spo2": "99"
+            },
+            "temuanLain": "-"
+          },
+          "diagnosis": [
+            {
+              "kode": "N10",
+              "deskripsi": "Hypertension"
+            }
+          ],
+          "prosedur": [
+            {
+              "kode": "N80",
+              "deskripsi": "A"
+            }
+          ],
+          "resepObat": [],
+          "rencana": "K",
+          "noSEP": null,
+          "cbgCode": null,
+          "cbgTarif": null,
+          "labTtdDigitalStatus": null,
+          "sirsStatus": null,
+          "timestamp": "2025-12-16T13:07:17.459Z"
+        }
+      ]
     }
   ]
 }
