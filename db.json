@@ -203,6 +203,78 @@
           },
           "sirsStatus": "TERKIRIM",
           "timestamp": "2025-12-16T13:31:54.049Z"
+        },
+        {
+          "id": 1765892521137,
+          "jenisKunjungan": "Ranap",
+          "tglKunjungan": "2025-12-16",
+          "keluhanUtama": "Mual",
+          "riwayatPenyakitSekarang": "Untah",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "110/87",
+              "nadi": "70",
+              "rr": "90",
+              "suhu": "36",
+              "spo2": "98"
+            },
+            "temuanLain": "Sakit kepala"
+          },
+          "diagnosis": [
+            {
+              "kode": "R11",
+              "deskripsi": "Nusea Fomitin"
+            }
+          ],
+          "prosedur": [
+            {
+              "kode": "-",
+              "deskripsi": "-"
+            }
+          ],
+          "resepObat": [
+            {
+              "namaObat": "Omeprazole",
+              "dosis": "4ml",
+              "frekuensi": "4x1",
+              "keterangan": "Sebelum makan",
+              "orderStatus": "BELUM ORDER",
+              "dispensingStatus": "PENDING"
+            },
+            {
+              "namaObat": "Paracetamol",
+              "dosis": "650mg",
+              "frekuensi": "4x1",
+              "keterangan": "Sebelum.makan",
+              "orderStatus": "BELUM ORDER",
+              "dispensingStatus": "PENDING"
+            }
+          ],
+          "labOrder": [
+            {
+              "jenis": "Cek Gula Darah",
+              "keterangan": "Biasa",
+              "orderStatus": "BELUM ORDER",
+              "result": "PENDING"
+            },
+            {
+              "jenis": "Cek Kadar Cairan",
+              "keterangan": "Cito",
+              "orderStatus": "BELUM ORDER",
+              "result": "PENDING"
+            }
+          ],
+          "asuhanKeperawatan": {
+            "diagnosaKeperawatan": "Nusea fomiting",
+            "tindakanMedisDPJP": "Memberi obat"
+          },
+          "rencana": "Rawat inap",
+          "noSEP": null,
+          "cbgCode": null,
+          "cbgTarif": null,
+          "labTtdDigitalStatus": null,
+          "sirsStatus": null,
+          "timestamp": "2025-12-16T13:42:01.139Z"
         }
       ],
       "nikVerificationStatus": "TERVERIFIKASI"
