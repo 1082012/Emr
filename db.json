@@ -201,13 +201,13 @@
               "jenis": "Cek Gula Darah",
               "keterangan": "Biasa",
               "orderStatus": "ORDERED",
-              "result": "PENDING"
+              "result": "RESULTED (Contoh: 150 mg/dL)"
             },
             {
               "jenis": "Cek Kadar Cairan",
               "keterangan": "Cito",
               "orderStatus": "ORDERED",
-              "result": "PENDING"
+              "result": "RESULTED (Contoh: 150 mg/dL)"
             }
           ],
           "asuhanKeperawatan": {
