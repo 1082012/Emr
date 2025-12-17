@@ -53,9 +53,10 @@
               "jenis": "Ff",
               "keterangan": "Rajal",
               "orderStatus": "ORDERED",
-              "result": "PENDING",
-              "satuan": null,
-              "nilaiRujukan": null
+              "result": "RESULTED (Zz)",
+              "satuan": "Z",
+              "nilaiRujukan": "",
+              "nilaiAsli": "Zz"
             }
           ],
           "labTtdDigitalStatus": null,
