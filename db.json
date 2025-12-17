@@ -11,7 +11,43 @@
       "alergi": "MAKANAN LAUT",
       "alamat": "GEDONG",
       "telepon": "08xxxxxxxxxx",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": "mj9qcr4hxx0rm7u67ks",
+          "jenisKunjungan": "Rajal",
+          "tglKunjungan": "2025-12-17",
+          "poliTujuan": "",
+          "keluhanUtama": "MUAL MUNTAH",
+          "riwayatPenyakitSekarang": "GERD",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "125/85",
+              "nadi": "85",
+              "rr": "88",
+              "suhu": "36",
+              "spo2": "99"
+            },
+            "temuanLain": "KEPUCATAN PADA BIBIR"
+          },
+          "diagnosis": [],
+          "prosedur": [
+            {
+              "kode": "",
+              "deskripsi": ""
+            }
+          ],
+          "resepObat": [],
+          "rencana": "MAKAN TERATUR",
+          "noSEP": null,
+          "cbgCode": null,
+          "cbgTarif": null,
+          "customTarif": null,
+          "klaimStatus": "PENDING",
+          "labOrder": [],
+          "labTtdDigitalStatus": null,
+          "sirsStatus": "PENDING"
+        }
+      ]
     },
     {
       "id": "mj9d1xkjkcp1ey7revm",
