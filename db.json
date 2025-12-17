@@ -43,7 +43,16 @@
           "cbgTarif": null,
           "customTarif": null,
           "klaimStatus": "PENDING",
-          "labOrder": [],
+          "labOrder": [
+            {
+              "jenis": "HEMATOLOGI LENGKAP",
+              "keterangan": "Rajal",
+              "orderStatus": "ORDERED",
+              "result": "PENDING",
+              "satuan": null,
+              "nilaiRujukan": null
+            }
+          ],
           "labTtdDigitalStatus": null,
           "sirsStatus": "PENDING"
         }
