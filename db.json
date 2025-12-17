@@ -44,9 +44,9 @@
           "resepObat": [],
           "rencana": "I",
           "noSEP": "0012345678983",
-          "cbgCode": null,
-          "cbgTarif": null,
-          "customTarif": null,
+          "cbgCode": "Wa",
+          "cbgTarif": "100.000",
+          "customTarif": "-",
           "klaimStatus": "PENDING",
           "labOrder": [
             {
