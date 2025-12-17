@@ -48,9 +48,10 @@
               "jenis": "HEMATOLOGI LENGKAP",
               "keterangan": "Rajal",
               "orderStatus": "ORDERED",
-              "result": "PENDING",
-              "satuan": null,
-              "nilaiRujukan": null
+              "result": "RESULTED (14,5)",
+              "satuan": "MGDL",
+              "nilaiRujukan": "120",
+              "nilaiAsli": "14,5"
             }
           ],
           "labTtdDigitalStatus": null,
