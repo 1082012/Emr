@@ -1,6 +1,19 @@
 {
   "patients": [
     {
+      "id": "mj9qa0hvxs2nmvb282l",
+      "nama": "GUSTI",
+      "noRM": "00121020",
+      "nik": "36730155226633",
+      "tglLahir": "2012-10-18",
+      "jenisKelamin": "Laki-laki",
+      "jenisPasien": "BPJS",
+      "alergi": "MAKANAN LAUT",
+      "alamat": "GEDONG",
+      "telepon": "08xxxxxxxxxx",
+      "riwayatKunjungan": []
+    },
+    {
       "id": "mj9d1xkjkcp1ey7revm",
       "nama": "Lintang",
       "noRM": "0081001",
