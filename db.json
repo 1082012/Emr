@@ -11,7 +11,48 @@
       "alergi": "Laut",
       "alamat": "G",
       "telepon": "08xxxxxxxxxx",
-      "riwayatKunjungan": []
+      "riwayatKunjungan": [
+        {
+          "id": "mj9d2sku53mbk13s2w5",
+          "jenisKunjungan": "Rajal",
+          "tglKunjungan": "2025-12-17",
+          "poliTujuan": "B",
+          "keluhanUtama": "Hy",
+          "riwayatPenyakitSekarang": "G",
+          "pemeriksaanFisik": {
+            "tandaVital": {
+              "td": "100/100",
+              "nadi": "Aa",
+              "rr": "A",
+              "suhu": "A",
+              "spo2": "A"
+            },
+            "temuanLain": "A"
+          },
+          "diagnosis": [
+            {
+              "kode": "",
+              "deskripsi": "a"
+            }
+          ],
+          "prosedur": [
+            {
+              "kode": "",
+              "deskripsi": ""
+            }
+          ],
+          "resepObat": [],
+          "rencana": "A",
+          "noSEP": null,
+          "cbgCode": null,
+          "cbgTarif": null,
+          "customTarif": null,
+          "klaimStatus": "PENDING",
+          "labOrder": [],
+          "labTtdDigitalStatus": null,
+          "sirsStatus": "PENDING"
+        }
+      ]
     },
     {
       "id": 1756877842118,
