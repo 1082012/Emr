@@ -47,7 +47,7 @@
           "cbgCode": "I-5-i-6",
           "cbgTarif": "100.000",
           "customTarif": "100.000",
-          "klaimStatus": "PENDING",
+          "klaimStatus": "FINALIZED",
           "labOrder": [
             {
               "jenis": "Hemoglobin",
