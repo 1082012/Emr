@@ -47,7 +47,7 @@
           "cbgCode": "Wa",
           "cbgTarif": "100.000",
           "customTarif": "-",
-          "klaimStatus": "PENDING",
+          "klaimStatus": "FINALIZED",
           "labOrder": [
             {
               "jenis": "Ff",
