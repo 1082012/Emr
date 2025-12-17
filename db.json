@@ -53,9 +53,10 @@
               "jenis": "Hemoglobin",
               "keterangan": "Rajal",
               "orderStatus": "ORDERED",
-              "result": "PENDING",
-              "satuan": null,
-              "nilaiRujukan": null
+              "result": "RESULTED (15,4)",
+              "satuan": "Mg/dl",
+              "nilaiRujukan": "1",
+              "nilaiAsli": "15,4"
             }
           ],
           "labTtdDigitalStatus": null,
