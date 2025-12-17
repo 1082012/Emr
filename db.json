@@ -43,7 +43,7 @@
           ],
           "resepObat": [],
           "rencana": "A",
-          "noSEP": null,
+          "noSEP": "0012345678971",
           "cbgCode": null,
           "cbgTarif": null,
           "customTarif": null,
